@@ -10,5 +10,9 @@ The code involves the following modules
 <p>  Principal Component Analysis is done to reduce the performance dimensions across multiple timeframes ( Short term to Long Term )
 <p> Distance Based algorithms are used to find similarity/dissimilaroty of funds based on holding patterns of underlying stocks </p>
 
+#### Example 1
 
-     
+![image](https://user-images.githubusercontent.com/17408955/215094078-013ceb07-fd9e-4107-be97-8d314c7896bd.png)
+
+
+

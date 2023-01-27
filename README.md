@@ -24,3 +24,12 @@ The code involves the following modules
 ![image](https://user-images.githubusercontent.com/17408955/215094933-62b1aa7b-b62f-4990-9ae2-8a7901c5506a.png)
 
 
+#### Example 4 - Fund Similarity (Top 10 Closest Funds)
+
+![image](https://user-images.githubusercontent.com/17408955/215095639-ec88d150-f2fe-449a-9f3a-d09c53d9fd3e.png)
+
+
+#### Example 5 - Fund Similarity based on Multi-timeframe Return History
+
+![image](https://user-images.githubusercontent.com/17408955/215095785-2da152f1-f4c1-48ba-a4b5-d65b77a6d6b2.png)
+

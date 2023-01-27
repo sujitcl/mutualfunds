@@ -22,3 +22,5 @@ The code involves the following modules
 #### Example 3 - Portfolio Diversity Heatmap
 
 ![image](https://user-images.githubusercontent.com/17408955/215094933-62b1aa7b-b62f-4990-9ae2-8a7901c5506a.png)
+
+

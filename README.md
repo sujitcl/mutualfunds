@@ -15,7 +15,10 @@ The code involves the following modules
 ![image](https://user-images.githubusercontent.com/17408955/215094078-013ceb07-fd9e-4107-be97-8d314c7896bd.png)
 
 
-##### Example 2 - Risk vs Performance ( A Stability Index is used to represnt risk)
+#### Example 2 - Risk vs Performance ( A Stability Index is used to represnt risk)
 
 ![image](https://user-images.githubusercontent.com/17408955/215094483-304e304f-9a7d-4f0c-991a-c4cc5923e51b.png)
 
+#### Example 3 - Portfolio Diversity Heatmap
+
+![image](https://user-images.githubusercontent.com/17408955/215094933-62b1aa7b-b62f-4990-9ae2-8a7901c5506a.png)
